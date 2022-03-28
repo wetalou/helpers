@@ -1,0 +1,16 @@
+{
+  "name": "wetalou/helper",
+  "type": "library",
+  "description": "php sort function",
+  "authors":[
+    {
+      "name":"wetalou",
+      "email":"1150895809@qq.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "Wetalou\\": "src/Wetalou"
+    }
+  }
+}
